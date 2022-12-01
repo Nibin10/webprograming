@@ -1,0 +1,11 @@
+<html>
+ <head>
+  <title>Home Page</title>
+ </head>
+ <body>
+ <h1>Nibin Raj R</h1>
+ <img src="index.jpeg">
+ <a href="Edu.html"><h3>Qualification</h3></a>
+ <a href="Con.html"><h3>Contact</h3></a>
+ </body>
+</html>
